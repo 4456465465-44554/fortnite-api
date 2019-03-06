@@ -635,5 +635,5 @@ class FortniteApi {
     });
   }
 }
-
+// By EdiTeD
 module.exports = FortniteApi;
